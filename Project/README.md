@@ -1,1 +1,1 @@
-This is a Super-Marrio knockoff project game, written in C.
+This is a Super Mario knock off game project. The source code for the base of the game is addapted by  Parallel Realities Ltd and is upgraded by me for a university project.
